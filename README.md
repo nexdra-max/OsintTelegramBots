@@ -65,5 +65,9 @@
         <td><a href="https://web.telegram.org/k/#@Dorks_bot">@Dorks_bot</a> </td>
         <td>Generate Google dorks based on Exploit DB list of dorks.</td>
     </tr>
+    <tr>
+        <td><a href="https://web.telegram.org/k/#@RealAddrBot">@RealAddrBot</a> </td>
+        <td>Generate synthetic burner identities (name, address, SSN, credit cards) with temp email inbox for OSINT investigations. 21 countries, 12 languages, zero logging. <a href="https://realaddrbot.com">Website</a></td>
+    </tr>
 </table>
 
